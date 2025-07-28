@@ -22,3 +22,18 @@ Additionally, you can add a user-friendly button to Microsoft Project’s ribbon
 3.	Navigate to the provided file **MSProject_customizations.exportedUI** and confirm the import.
 This VBA module enables practitioners to apply an academically validated heuristic directly within Microsoft Project, without requiring additional software or advanced programming knowledge.
 The code is available as a standalone file and can be reused or adapted for different project scheduling needs.
+
+## Note on Commercial Use
+All contents of this repository are released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** licence.
+
+This means you are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material.
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+Full licence text: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
