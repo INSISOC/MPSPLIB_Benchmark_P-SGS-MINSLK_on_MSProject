@@ -1,6 +1,10 @@
 # MPSPLIB Benchmark with P-SGS/MINSLK on MSProject
 Repository containing benchmark results for instances of the MPSPLib library (http://www.mpsplib.com/) obtained with the implementation in MS Project of the heuristic based on the P-SGS/MINSLK algorithm to address the Resource Constrained Multi-Project Scheduling Problem (RCMPSP).  
 
+## Publication
+This repository accompanies the article:  
+- Poza, D., Araújo, A., De Antón, J., & Villafáñez, F. (2025). Resource-Constrained Multi-Project Scheduling: Enhancing Commercial Software with Advanced Heuristics. International Journal of Project Management (under review).
+
 ## Source of Original Instances
 The original problem instances were obtained from the MPSPLib (http://www.mpsplib.com/), developed by **Jörg Homberger**<sup>1</sup>.  
 These have been previously converted into `.mpp` format for compatibility with Microsoft Project. Instance names respect the original source.   
