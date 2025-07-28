@@ -1,6 +1,6 @@
 This script provides the full implementation of the P-SGS/MINSLK heuristic in Microsoft Visual Basic for Applications (VBA). The script is intended to be embedded in Microsoft Project and can be executed directly by the user. It performs resource leveling for multi-project environments using a general-purpose, priority-rule-based scheduling strategy.  
 
-## NOTE
+## Important note
 This script has been specifically designed to work with instances of the MPSPLib library. It is not guaranteed to work with other types of .mpp files.
 
 ## How to use the script  
