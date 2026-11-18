@@ -41,3 +41,15 @@ You can download the original instances from: **[mp_all.zip](http://web.archive.
 
 ## Contact
 For questions or academic collaboration, please contact: david.poza@uva.es
+ 
+ 
+## Version history
+
+### v1.1
+
+- Optimized Rescheduling_Module.bas.
+- Re-executed all benchmark instances.
+- Replaced all generated benchmark result files.
+
+The optimization affects only the efficiency of the implementation of the algorithm for ordering candidate activities.
+No changes were made to the scheduling methodology.
