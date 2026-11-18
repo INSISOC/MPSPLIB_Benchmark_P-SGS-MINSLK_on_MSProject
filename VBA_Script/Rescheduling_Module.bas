@@ -64,9 +64,9 @@ Sub ResourceLevelingEngine()
         For i = 1 To candidateTasks.Count - 1
             For j = 1 To candidateTasks.Count - 1
                 If candidateTasks(j).TotalSlack > candidateTasks(j + 1).TotalSlack Then
-                    Set tempTask = candidateTasks(j)
-                    candidateTasks.Remove j
-                    candidateTasks.Add tempTask
+                    Set tempTask = candidateTasks(j + 1)
+                    candidateTasks.Remove j + 1
+                    candidateTasks.Add tempTask, , j
                 End If
             Next j
         Next i
