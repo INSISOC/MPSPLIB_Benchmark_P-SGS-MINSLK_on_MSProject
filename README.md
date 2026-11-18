@@ -51,5 +51,5 @@ For questions or academic collaboration, please contact: david.poza@uva.es
 - Re-executed all benchmark instances.
 - Replaced all generated benchmark result files.
 
-The optimization affects only the efficiency of the implementation of the algorithm for ordering candidate activities.
+The optimization affects only the implementation of the routine for sorting candidate activities in order to improve its efficiency.
 No changes were made to the scheduling methodology.
