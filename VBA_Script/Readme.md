@@ -46,4 +46,15 @@ This means you are free to:
 
 - **Attribution** — You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
+ 
+ 
+# Version History
 
+## v1.1
+Current Version
+Changes from v1.0:
+- Minor optimisation of the implementation of the routine for sorting candidate activities.
+- Installation instructions unchanged.
+
+## v1.0
+- Initial release.
